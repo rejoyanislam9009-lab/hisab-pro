@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#101a32"/></linearGradient>
+  <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12243a"/><stop offset="1" stop-color="#151c35"/></linearGradient>
+  <linearGradient id="ico" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b2232"/><stop offset="1" stop-color="#1b2947"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="18" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1080" height="1350" fill="url(#bg)"/>
+<text x="70" y="85" fill="#f7f9fc" font-family="Arial" font-size="42" font-weight="700">HISAB PRO</text>
+<text x="70" y="125" fill="#8f9db4" font-family="Arial" font-size="18">Unique Premium Dashboard • SAR-first</text>
+<rect x="70" y="150" width="210" height="4" rx="2" fill="#5ce8c1"/>
+
+<!-- icon -->
+<rect x="70" y="210" width="300" height="390" rx="38" fill="#0f192b" stroke="#263650"/>
+<text x="105" y="255" fill="#8292aa" font-family="Arial" font-size="16" font-weight="700">PREMIUM ICON</text>
+<rect x="115" y="300" width="210" height="210" rx="50" fill="url(#ico)" stroke="#52657c" filter="url(#shadow)"/>
+<path d="M160 410a60 60 0 1 1 112 28" fill="none" stroke="#5ce8c1" stroke-width="9" stroke-linecap="round"/>
+<path d="M182 352v112M258 352v112M182 407h76" stroke="#f7f9fc" stroke-width="19" stroke-linecap="round"/>
+<path d="M214 432v32M238 418v46" stroke="#8e77ff" stroke-width="12" stroke-linecap="round"/>
+<circle cx="276" cy="344" r="10" fill="#f0c96f"/>
+<text x="220" y="555" fill="#f7f9fc" font-family="Arial" font-size="25" font-weight="700" text-anchor="middle">Hisab Pro</text>
+<text x="220" y="582" fill="#5ce8c1" font-family="Arial" font-size="14" text-anchor="middle">Own your numbers.</text>
+
+<!-- phone -->
+<rect x="430" y="180" width="580" height="1080" rx="58" fill="#02060d" filter="url(#shadow)"/>
+<rect x="445" y="195" width="550" height="1050" rx="48" fill="#08101f" stroke="#35435a"/>
+<rect x="630" y="208" width="160" height="28" rx="14" fill="#010409"/>
+<text x="485" y="285" fill="#f7f9fc" font-family="Arial" font-size="29" font-weight="700">Hisab Pro</text>
+<circle cx="932" cy="274" r="24" fill="#142039" stroke="#35435a"/>
+<text x="932" y="280" fill="#f0c96f" font-family="Arial" font-size="13" font-weight="700" text-anchor="middle">HP</text>
+<text x="485" y="322" fill="#8493aa" font-family="Arial" font-size="15">Good evening</text>
+<text x="485" y="356" fill="#e8edf5" font-family="Arial" font-size="23" font-weight="700">Your money, clearly.</text>
+
+<rect x="485" y="395" width="470" height="190" rx="30" fill="url(#hero)" stroke="#2a3b55"/>
+<rect x="485" y="395" width="470" height="5" rx="3" fill="#5ce8c1"/>
+<text x="520" y="440" fill="#8797b0" font-family="Arial" font-size="13" font-weight="700">NET WORTH</text>
+<text x="520" y="490" fill="#fbfcfe" font-family="Arial" font-size="38" font-weight="700">SAR 24,850</text>
+<text x="520" y="530" fill="#5ce8c1" font-family="Arial" font-size="15" font-weight="700">+ SAR 1,940 this month</text>
+<path d="M755 525 C790 500,805 540,840 495 S900 510,930 465" fill="none" stroke="#8e77ff" stroke-width="5"/>
+
+<!-- quick actions -->
+<g font-family="Arial" text-anchor="middle">
+<rect x="485" y="615" width="105" height="92" rx="23" fill="#101a2c" stroke="#263650"/><circle cx="537" cy="646" r="18" fill="#5ce8c1"/><text x="537" y="652" fill="#07111f" font-size="22" font-weight="700">+</text><text x="537" y="687" fill="#dce3ed" font-size="12">Income</text>
+<rect x="607" y="615" width="105" height="92" rx="23" fill="#101a2c" stroke="#263650"/><circle cx="659" cy="646" r="18" fill="#ff7985"/><text x="659" y="652" fill="#07111f" font-size="22" font-weight="700">−</text><text x="659" y="687" fill="#dce3ed" font-size="12">Expense</text>
+<rect x="729" y="615" width="105" height="92" rx="23" fill="#101a2c" stroke="#263650"/><circle cx="781" cy="646" r="18" fill="#8e77ff"/><text x="781" y="652" fill="#07111f" font-size="18" font-weight="700">↗</text><text x="781" y="687" fill="#dce3ed" font-size="12">Transfer</text>
+<rect x="851" y="615" width="104" height="92" rx="23" fill="#101a2c" stroke="#263650"/><circle cx="903" cy="646" r="18" fill="#f0c96f"/><text x="903" y="652" fill="#07111f" font-size="17" font-weight="700">◎</text><text x="903" y="687" fill="#dce3ed" font-size="12">More</text>
+</g>
+
+<text x="485" y="755" fill="#f3f6fa" font-family="Arial" font-size="19" font-weight="700">Smart overview</text>
+<rect x="485" y="780" width="225" height="118" rx="26" fill="#0f1b2d" stroke="#263650"/>
+<text x="512" y="816" fill="#8797b0" font-family="Arial" font-size="12" font-weight="700">TO RECEIVE</text><text x="512" y="855" fill="#5ce8c1" font-family="Arial" font-size="25" font-weight="700">SAR 3,400</text><text x="512" y="881" fill="#aab5c6" font-family="Arial" font-size="13">4 people</text>
+<rect x="730" y="780" width="225" height="118" rx="26" fill="#0f1b2d" stroke="#263650"/>
+<text x="757" y="816" fill="#8797b0" font-family="Arial" font-size="12" font-weight="700">TO PAY</text><text x="757" y="855" fill="#ff9ea6" font-family="Arial" font-size="25" font-weight="700">SAR 1,250</text><text x="757" y="881" fill="#aab5c6" font-family="Arial" font-size="13">2 due soon</text>
+
+<rect x="485" y="925" width="470" height="150" rx="28" fill="#0f1b2d" stroke="#263650"/>
+<text x="512" y="962" fill="#f3f6fa" font-family="Arial" font-size="18" font-weight="700">Cashflow</text>
+<text x="512" y="990" fill="#8797b0" font-family="Arial" font-size="13">This month</text>
+<g fill="#52647e"><rect x="520" y="1025" width="20" height="25" rx="8"/><rect x="555" y="1010" width="20" height="40" rx="8"/><rect x="590" y="1020" width="20" height="30" rx="8"/><rect x="625" y="995" width="20" height="55" rx="8"/><rect x="660" y="1007" width="20" height="43" rx="8"/><rect x="695" y="985" width="20" height="65" rx="8"/></g>
+<rect x="820" y="950" width="105" height="38" rx="19" fill="#153a37"/><text x="872" y="975" fill="#5ce8c1" font-family="Arial" font-size="13" font-weight="700" text-anchor="middle">+18.4%</text>
+
+<rect x="485" y="1105" width="470" height="82" rx="27" fill="#0d1728" stroke="#263650"/>
+<g font-family="Arial" font-size="12" text-anchor="middle"><text x="540" y="1142" fill="#5ce8c1">●</text><text x="540" y="1167" fill="#5ce8c1">Home</text><text x="660" y="1142" fill="#7e8da6">▤</text><text x="660" y="1167" fill="#7e8da6">Entries</text><text x="780" y="1142" fill="#7e8da6">◉</text><text x="780" y="1167" fill="#7e8da6">People</text><text x="900" y="1142" fill="#7e8da6">▥</text><text x="900" y="1167" fill="#7e8da6">Reports</text></g>
+
+<text x="70" y="1290" fill="#7f8da5" font-family="Arial" font-size="16">Concept 02 • Premium dark fintech • Mint + Iris + Soft Gold • Android-ready</text>
+</svg>
