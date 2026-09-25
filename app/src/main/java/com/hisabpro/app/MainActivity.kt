@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
         val root = LinearLayout(this).apply { orientation = LinearLayout.VERTICAL; setBackgroundColor(bg) }
         val scroll = ScrollView(this).apply { isFillViewport = true }
         content = LinearLayout(this).apply { orientation = LinearLayout.VERTICAL; setPadding(dp(18), dp(18), dp(18), dp(28)) }
-        scroll.addView(content, ScrollView.LayoutParams(-1, -2))
+        scroll.addView(content, android.view.ViewGroup.LayoutParams(-1, -2))
         root.addView(scroll, LinearLayout.LayoutParams(-1, 0, 1f))
         nav = LinearLayout(this).apply { orientation = LinearLayout.HORIZONTAL; gravity = Gravity.CENTER; setPadding(dp(6), dp(7), dp(6), dp(8)); setBackgroundColor(Color.rgb(14, 24, 40)) }
         addNav("Home", "⌂") { showDashboard() }; addNav("Entries", "↕") { showTransactions() }; addNav("People", "◎") { showPeople() }; addNav("Reports", "▥") { showReports() }
