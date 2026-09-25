@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#EEF2F7"/>
+<text x="65" y="75" font-family="Arial" font-size="42" font-weight="700" fill="#10233F">HISAB PRO</text>
+<text x="65" y="115" font-family="Arial" font-size="18" fill="#6D7E94">Concept 03 • Light Premium • SAR-first</text>
+<rect x="65" y="145" width="210" height="5" rx="3" fill="#176BFF"/>
+<rect x="65" y="205" width="300" height="390" rx="38" fill="#FFFFFF" stroke="#D7E0EB"/>
+<text x="100" y="250" font-family="Arial" font-size="15" font-weight="700" fill="#78899E">NEW APP ICON</text>
+<rect x="115" y="300" width="200" height="200" rx="48" fill="#0D2D5A"/>
+<path d="M155 340h88l34 34v80H155z" fill="#fff"/><path d="M243 340v35h34" fill="#BFD5FF"/>
+<rect x="178" y="390" width="14" height="45" rx="7" fill="#176BFF"/><rect x="203" y="375" width="14" height="60" rx="7" fill="#12B8A6"/><rect x="228" y="360" width="14" height="75" rx="7" fill="#FFB547"/>
+<path d="M168 370l12 12 20-24" fill="none" stroke="#12B8A6" stroke-width="8" stroke-linecap="round"/>
+<circle cx="267" cy="438" r="15" fill="#FFB547"/>
+<text x="215" y="545" text-anchor="middle" font-family="Arial" font-size="25" font-weight="700" fill="#10233F">Hisab Pro</text>
+<text x="215" y="575" text-anchor="middle" font-family="Arial" font-size="13" fill="#718198">Clear. Fast. Professional.</text>
+<rect x="410" y="180" width="610" height="1100" rx="60" fill="#0C1727"/>
+<rect x="428" y="198" width="574" height="1064" rx="48" fill="#F7F9FC"/>
+<rect x="625" y="212" width="180" height="27" rx="14" fill="#07101C"/>
+<text x="465" y="305" font-family="Arial" font-size="16" fill="#728299">Good evening,</text>
+<text x="465" y="345" font-family="Arial" font-size="31" font-weight="700" fill="#10233F">My Hisab</text>
+<rect x="465" y="390" width="500" height="205" rx="32" fill="#155EDC"/>
+<circle cx="915" cy="425" r="110" fill="#1F74FF" opacity=".8"/><circle cx="955" cy="520" r="95" fill="#12B8A6" opacity=".75"/>
+<text x="500" y="435" font-family="Arial" font-size="13" font-weight="700" fill="#D7E5FF">TOTAL BALANCE</text>
+<text x="500" y="485" font-family="Arial" font-size="39" font-weight="700" fill="#FFFFFF">SAR 24,850.00</text>
+<text x="500" y="530" font-family="Arial" font-size="14" fill="#D7E5FF">Available across 3 accounts</text>
+<rect x="500" y="550" width="145" height="32" rx="16" fill="#FFFFFF"/><text x="572" y="571" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700" fill="#155EDC">+ 7.8% month</text>
+<g font-family="Arial" text-anchor="middle">
+<rect x="465" y="630" width="112" height="100" rx="25" fill="#fff" stroke="#DCE4EE"/><circle cx="521" cy="665" r="19" fill="#176BFF"/><text x="521" y="672" font-size="23" font-weight="700" fill="#fff">+</text><text x="521" y="712" font-size="12" font-weight="700" fill="#2D405C">Add Money</text>
+<rect x="592" y="630" width="112" height="100" rx="25" fill="#fff" stroke="#DCE4EE"/><circle cx="648" cy="665" r="19" fill="#F05A67"/><text x="648" y="672" font-size="23" font-weight="700" fill="#fff">−</text><text x="648" y="712" font-size="12" font-weight="700" fill="#2D405C">Expense</text>
+<rect x="719" y="630" width="112" height="100" rx="25" fill="#fff" stroke="#DCE4EE"/><circle cx="775" cy="665" r="19" fill="#12B8A6"/><text x="775" y="672" font-size="20" font-weight="700" fill="#fff">↔</text><text x="775" y="712" font-size="12" font-weight="700" fill="#2D405C">Transfer</text>
+<rect x="846" y="630" width="119" height="100" rx="25" fill="#fff" stroke="#DCE4EE"/><circle cx="905" cy="665" r="19" fill="#FFB547"/><text x="905" y="672" font-size="18" font-weight="700" fill="#fff">▦</text><text x="905" y="712" font-size="12" font-weight="700" fill="#2D405C">Invoice</text></g>
+<text x="465" y="785" font-family="Arial" font-size="20" font-weight="700" fill="#10233F">This month</text>
+<rect x="465" y="820" width="240" height="130" rx="28" fill="#fff" stroke="#DCE4EE"/><text x="495" y="855" font-family="Arial" font-size="12" font-weight="700" fill="#7C8BA0">INCOME</text><text x="495" y="900" font-family="Arial" font-size="26" font-weight="700" fill="#10233F">SAR 18,500</text><text x="495" y="930" font-family="Arial" font-size="13" font-weight="700" fill="#12A58F">↑ 12.4%</text>
+<rect x="725" y="820" width="240" height="130" rx="28" fill="#fff" stroke="#DCE4EE"/><text x="755" y="855" font-family="Arial" font-size="12" font-weight="700" fill="#7C8BA0">EXPENSE</text><text x="755" y="900" font-family="Arial" font-size="26" font-weight="700" fill="#10233F">SAR 6,250</text><text x="755" y="930" font-family="Arial" font-size="13" font-weight="700" fill="#F05A67">↓ 4.1%</text>
+<rect x="465" y="975" width="500" height="100" rx="28" fill="#EAF1FF"/><text x="495" y="1010" font-family="Arial" font-size="13" font-weight="700" fill="#60728B">RECEIVABLE</text><text x="495" y="1045" font-family="Arial" font-size="20" font-weight="700" fill="#176BFF">SAR 3,400</text><line x1="715" y1="995" x2="715" y2="1055" stroke="#CAD7E7"/><text x="755" y="1010" font-family="Arial" font-size="13" font-weight="700" fill="#60728B">PAYABLE</text><text x="755" y="1045" font-family="Arial" font-size="20" font-weight="700" fill="#F05A67">SAR 1,250</text>
+<text x="465" y="1125" font-family="Arial" font-size="20" font-weight="700" fill="#10233F">Recent activity</text>
+<rect x="465" y="1150" width="500" height="70" rx="22" fill="#fff" stroke="#E1E7EF"/><text x="500" y="1180" font-family="Arial" font-size="14" font-weight="700" fill="#1B2E49">Salary</text><text x="500" y="1202" font-family="Arial" font-size="11" fill="#8492A5">Bank Account</text><text x="935" y="1187" text-anchor="end" font-family="Arial" font-size="13" font-weight="700" fill="#12A58F">+ SAR 6,500</text>
+<text x="65" y="1280" font-family="Arial" font-size="16" fill="#6D7E94">Royal Blue • Teal • Amber • Clean white workspace</text>
+</svg>
